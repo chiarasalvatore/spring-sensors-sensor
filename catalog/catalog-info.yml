@@ -9,3 +9,4 @@ spec:
   targets:
     - ./groups/org.yaml
     - ./components/component-publisher.yml
+    - ./systems/spring-sensors-system.yaml
