@@ -7,5 +7,5 @@ metadata:
     'backstage.io/techdocs-ref': dir:.
 spec:
   targets:
-    - ./groups/org.yml
+    - ./groups/org.yaml
     - ./components/component-publisher.yml
