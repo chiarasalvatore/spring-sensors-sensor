@@ -8,7 +8,7 @@ spec:
   profile:
     displayName: Team Spring Sensors Catalog
     email: team-spring-sensors-catalog@tim.it
-    picture: https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg
+    picture: https://1.bp.blogspot.com/-trIS3Iz94SE/YIr3iwBC23I/AAAAAAAAtVQ/oieBThHJU3wPJkGOATDSvi6RySwlowM5ACLcBGAsYHQ/w200-h200/spring-logo.png
   parent: it-market
   children: []
 ---
@@ -21,4 +21,4 @@ spec:
     displayName: Default User
     email: guest@example.com
     picture: https://www.winhelponline.com/blog/wp-content/uploads/2017/12/user.png
-  memberOf: [team-tmf-product-catalog]
+  memberOf: [team-spring.sensors-catalog]
