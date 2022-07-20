@@ -1,4 +1,4 @@
-site_name: 'tmf-apis-location'
+site_name: 'spring-sensors-location'
 
 nav:
   - Home: index.md
